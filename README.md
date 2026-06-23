@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bajo-tu-aliento/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Bajo tu aliento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bajo-tu-aliento/) |
+| **Get License** | [Obtain a Music License for Bajo tu aliento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bajo-tu-aliento/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `90cf9e73519e92f5207321068236c303598c93079687b80846b7b831a5c7651d` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

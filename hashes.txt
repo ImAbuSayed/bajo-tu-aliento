@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bajo tu aliento
+
+This log tracks the cryptographic history and versioning for the song **Bajo tu aliento** (bajo-tu-aliento).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T05:53:47.208969 | `v1` | `90cf9e73519e92f5207321068236c303598c93079687b80846b7b831a5c7651d` | `87596d5e52f4252fcf2a53d5609a08d23a156546455c5b28f01d6d46eeffc5d1` | `2026-06-24_bajo-tu-aliento-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
