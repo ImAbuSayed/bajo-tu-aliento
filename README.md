@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bajo-tu-aliento/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Bajo tu aliento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bajo-tu-aliento/) |
+| **Get License** | [Commercial Licensing for Bajo tu aliento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bajo-tu-aliento/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bajo tu aliento, la noche se enciende
+> Sabes que este fuego no hay quien lo apague
+> Mírame a los ojos, que el tiempo se pierde
+> Nena, esta locura no hay quien la pare
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
